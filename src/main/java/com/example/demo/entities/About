@@ -1,0 +1,7 @@
+Entidad es?
+son los objetos de dominio de la aplicación.
+nuestros conceptos de negocio
+son los menos propensos a cambios
+
+en lenguaje mas humano nuestra entidades son clases de java que
+luego el mapeador hibernate luego pasará a tablas
